@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Extension for Block-List(https://ext-h6n5ohamiq-uc.a.run.app/api/docs).
 
 ## Installation
 
